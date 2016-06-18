@@ -1,0 +1,28 @@
+name: efreet
+favicon: null
+layout_spectrum: 0.05559344054199755
+typography_spectrum: 0.398577974177897
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.31945956172421575
+  lightness: 0.9375447719357908
+  saturation: 0.7631152444519103
+  rhythmicContrast: 0.08254732214845717
+purpose: []
